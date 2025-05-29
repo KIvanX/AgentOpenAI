@@ -1,0 +1,8 @@
+asyncpg~=0.30.0
+yookassa~=3.5.0
+fastapi~=0.115.12
+pydantic~=2.11.3
+openai~=1.74.0
+requests~=2.32.3
+python-dotenv~=1.1.0
+uvicorn~=0.34.1
